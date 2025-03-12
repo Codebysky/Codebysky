@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Codebysky
-- 👀 I’m interested in .coding..
-- 🌱 I’m currently learning ..C.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 🚀 Hi, I'm Santosh Yadav! 👋  
 
-<!---
-Codebysky/Codebysky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 **Innovator | Developer | Tech Enthusiast**  
+🛠️ Passionate about **Web Development, Embedded Systems & IoT**  
+ 
+## 🔧 Tech Stack  
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js, MySQL, WebSockets, JWT  
+- **IoT & Hardware:** ESP32, Stepper Motors, A4988, MQTT  
+- **Other:** Arduino, Python, GraphQL, WebRTC  
+
+## 🚀 Projects  
+🔹 [Planetary Tracking System](#) – Stepper motor-based tracking system  
+🔹 [Real-time Chat App](#) – WebSockets-powered messaging  
+🔹 [ESP32 IoT Dashboard](#) – Control and monitor IoT devices  
